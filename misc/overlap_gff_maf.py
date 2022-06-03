@@ -13,7 +13,7 @@ import bx.align.maf
 import pandas
 import numpy
 
-parser = OptionParser(usage="usage: extract_bed_byspecies.py -m large.maf -b large.bed")
+parser = OptionParser(usage="usage: extract_bed_byspecies.py -m large.maf -g large.gff")
 parser.add_option("-m", "--inputmaf", action="store", dest='inputmaf', type="string")
 parser.add_option("-g", "--inputgff", action="store", dest='inputgff', type="string")
 
