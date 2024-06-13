@@ -1,5 +1,5 @@
 # SAMS
-## Workflow used to compare mutation spectrum using maf files
+## Mutation spectrum comparison using genome alignment MAFs
 
 This repository includes scripts used for the mutation spectrum analysis from maf files. 
 The workflow for calculating the mutation spectrum is run with additional Rscripts, not currently here. 
